@@ -1,0 +1,6 @@
+{
+  "name": "SocratesAI - Học Tập Socratic & Ôn Thi Thích Ứng",
+  "description": "Nền tảng học tập thông minh với phương pháp gợi mở Socratic, tự động tạo Flashcard/Quiz/Tóm tắt từ tài liệu, lập lịch ôn thi tự thích ứng và bản đồ năng lực chuyên sâu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
